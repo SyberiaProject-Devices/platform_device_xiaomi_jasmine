@@ -24,13 +24,13 @@
 	"branch":      "master"
 },
 {
-	"remote":      "gitlab",
+	"remote":      "github",
 	"repository":  "xiaomi-sdm660/android_vendor_xiaomi_wayne",
 	"target_path": "vendor/xiaomi/wayne",
 	"branch":      "master"
 },
 {
-	"remote":      "gitlab",
+	"remote":      "github",
 	"repository":  "xiaomi-sdm660/android_vendor_xiaomi_sdm660-common",
 	"target_path": "vendor/xiaomi/sdm660-common",
 	"branch":      "master"
