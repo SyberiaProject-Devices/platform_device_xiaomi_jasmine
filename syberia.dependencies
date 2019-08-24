@@ -46,12 +46,5 @@
 	"repository":  "LineageOS/android_hardware_qcom_audio",
 	"target_path": "hardware/qcom/audio-caf/msm8998",
 	"branch":      "lineage-16.0-caf-8998"
-},
-{
-	"remote":      "github",
-	"repository":  "LineageOS/android_hardware_qcom_bootctrl",
-	"target_path": "hardware/qcom/bootctrl",
-	"branch":      "lineage-16.0"
 }
-
 ]
